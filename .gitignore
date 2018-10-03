@@ -4,3 +4,4 @@
 /1_notmnist/.ipynb_checkpoints/1_notmnist-checkpoint.ipynb
 .*
 *.tar.gz
+*.zip
